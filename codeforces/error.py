@@ -1,0 +1,3 @@
+from typing import *
+
+class CodeForcesException(Exception): ...

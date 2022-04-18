@@ -1,0 +1,26 @@
+{
+    "problem_options": {
+        "amount": 5,
+        "lowerbound": 1200,
+        "upperbound": 2300,
+        "tags": [
+            "*combine tags by OR",
+            "binary search",
+            "two pointers",
+            "dp",
+            "greedy",
+            "graphs",
+            "trees",
+            "strings",
+            "geometry",
+            "dsu",
+            "sortings",
+            "shortest paths",
+            "data structures"
+        ]
+    },
+    "showtags": true,
+    "autotrack": true,
+    "duration": 3600,
+    "handle": "your handle"
+}
